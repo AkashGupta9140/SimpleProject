@@ -1,2 +1,6 @@
 Hello ji workspace 1;
+<<<<<<< HEAD
 i am sky;
+=======
+Heeeee
+>>>>>>> a414af61faa69cfc90ac19fee410336744794903
